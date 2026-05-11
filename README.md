@@ -13,11 +13,15 @@
 | 구분 | 라이브 URL | 시연 영상 |
 | --- | --- | --- |
 | 과제1 · S3 | `http://mybucket--20263627.s3-website-us-east-1.amazonaws.com` | [▶ YouTube](https://youtu.be/GrNR13N85As) |
-| 과제2 · Amplify | `https://main.<APP_ID>.amplifyapp.com` | _업로드 후 링크 추가_ |
+| 과제2 · Amplify | `https://main.<APP_ID>.amplifyapp.com` | [▶ YouTube](https://youtu.be/ultvS7wibI4) |
 
 ### 🎬 과제1 — GitHub Actions CI/CD 시연
 
 [![과제1 시연 영상](https://img.youtube.com/vi/GrNR13N85As/hqdefault.jpg)](https://youtu.be/GrNR13N85As)
+
+### 🎬 과제2 — AWS Amplify 호스팅 시연
+
+[![과제2 시연 영상](https://img.youtube.com/vi/ultvS7wibI4/hqdefault.jpg)](https://youtu.be/ultvS7wibI4)
 
 ---
 
