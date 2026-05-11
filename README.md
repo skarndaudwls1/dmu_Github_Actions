@@ -10,10 +10,14 @@
 
 > Lab 세션은 약 4시간만 유효합니다. 만료 후에는 URL이 비활성화될 수 있습니다.
 
-| 구분 | 라이브 URL | 시연 영상(YouTube) |
+| 구분 | 라이브 URL | 시연 영상 |
 | --- | --- | --- |
-| 과제1 · S3 | `http://mybucket--20263627.s3-website-us-east-1.amazonaws.com` | _업로드 후 링크 추가_ |
+| 과제1 · S3 | `http://mybucket--20263627.s3-website-us-east-1.amazonaws.com` | [▶ YouTube](https://youtu.be/GrNR13N85As) |
 | 과제2 · Amplify | `https://main.<APP_ID>.amplifyapp.com` | _업로드 후 링크 추가_ |
+
+### 🎬 과제1 — GitHub Actions CI/CD 시연
+
+[![과제1 시연 영상](https://img.youtube.com/vi/GrNR13N85As/hqdefault.jpg)](https://youtu.be/GrNR13N85As)
 
 ---
 
