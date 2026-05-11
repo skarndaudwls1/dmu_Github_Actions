@@ -5,10 +5,10 @@
 
 ## 🚀 빠른 링크
 
-| | 라이브 사이트 | 시연 영상 |
+| | AWS URL | 시연 영상 |
 | --- | --- | --- |
-| **과제1** · GitHub Actions → S3 | `http://mybucket--20263627.s3-website-us-east-1.amazonaws.com` | [▶ YouTube](https://youtu.be/GrNR13N85As) |
-| **과제2** · AWS Amplify | `https://main.<APP_ID>.amplifyapp.com` | [▶ YouTube](https://youtu.be/ultvS7wibI4) |
+| **과제1** · GitHub Actions → S3 | [S3 버킷 콘솔](https://us-east-1.console.aws.amazon.com/s3/buckets/mybucket--20263627?region=us-east-1&tab=properties) | [▶ YouTube](https://youtu.be/GrNR13N85As) |
+| **과제2** · AWS Amplify | [https://main.d3foq5qt49prgu.amplifyapp.com](https://main.d3foq5qt49prgu.amplifyapp.com/) | [▶ YouTube](https://youtu.be/ultvS7wibI4) |
 
 > ⚠️ AWS Academy Lab 세션은 약 4시간만 유효합니다. 만료 후에는 위 URL이 비활성화될 수 있습니다.
 
